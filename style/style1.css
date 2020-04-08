@@ -1,0 +1,41 @@
+.HTML{
+    color: red;
+}
+.h1{
+    text-align: center;
+    
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.ordinary{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: royalblue;
+}
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: seagreen;
+}
+.p3{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10 px;
+    color: tan;
+}
+span{
+    color: red;
+}
+.ul{
+    list-style-type:none;
+    
+    
+}
+.ul :before {
+    content: "\00A7"; 
+    color: red;
+    
+
+}
